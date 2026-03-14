@@ -15,10 +15,10 @@
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Skills
 
 ### 🌐 Frontend
-<p>
+<p align="center>
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=bootstrap" />
