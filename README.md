@@ -62,21 +62,28 @@
 
 ---
 
-# 📫 Connect With Me
-<p align="center">
-
-<a href="https://github.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
+## 🌐 Connect With Me
 
 <p align="center">
-⭐ "Code. Learn. Build. Repeat." ⭐
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://yourwebsite.com">
+<img src="https://img.shields.io/badge/Visit%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:youremail@gmail.com">
+<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:youremail@gmail.com">
+<img src="https://img.shields.io/badge/Hire%20Me-28a745?style=for-the-badge&logo=handshake&logoColor=white"/>
+</a>
+
 </p>
