@@ -46,9 +46,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sajidabaloch&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidabaloch&theme=tokyonight" />
 
 </p>
 
@@ -70,11 +70,11 @@
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://yourwebsite.com">
+<a href="https://sajidabaloch.com">
 <img src="https://img.shields.io/badge/Visit%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:sajidairfanbaloch@gmail.com">
 <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -82,7 +82,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:sajidairfanbaloch@gmail.com">
 <img src="https://img.shields.io/badge/Hire%20Me-28a745?style=for-the-badge&logo=handshake&logoColor=white"/>
 </a>
 
