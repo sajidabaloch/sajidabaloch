@@ -80,11 +80,11 @@
 
 <p align="center">
 
-<a href="https://yourportfolio.com">
+<a href=" https://sajidabaloch.github.io/sajida-baloch">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://sajidabaloch.com">
+<a href="https://sajidabaloch.github.io/sajida-baloch">
 <img src="https://img.shields.io/badge/Visit%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
